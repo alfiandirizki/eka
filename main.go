@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 
-fun main(){
-
+func main(){
+	fmt.Println("Maly")
 	fmt.Println("Eka")	
 
 }
